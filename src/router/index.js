@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import LoginAdministrador from '@/views/loginAmin.vue'
-import DashboardAdmin from '@/views/DashboardAdmin.vue'
+import DashboardAdmin from '@/views/dashboardAdmin.vue'
 import LoginEmpleado from '@/views/loginEmpleado.vue'
 import AccesEmployee from '@/views/accesEmployee.vue'
 
